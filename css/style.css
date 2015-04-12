@@ -110,3 +110,13 @@ h2{
   position: relative;
   top: 30px;
 }
+.full{  
+  background: url('../images/7.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+.white {
+  color: white;
+}
